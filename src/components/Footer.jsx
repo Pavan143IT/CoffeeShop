@@ -39,7 +39,7 @@ const Footer = () => {
                     <div className='py-8 px-4'>
                         <a href="#" className='font-semibold tracking-widest text-2xl sm:text-3xl font-cursive'>Coffee Haven</a>
                         <p className='pt-4'>Savor Every Sip, Enjoy Every Moment – Your Coffee, Your Haven</p>
-                        <a href="https://www.youtube.com/@WebeliteBuilders" target='_blank' className='inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full'>Visit our Instagram</a>
+                        <a href="https://www.instagram.com/pavan_mr.cool?igsh=MXRqa2ViNXFncDJ3Ng==" target='_blank' className='inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full'>Visit our Instagram</a>
                     </div>
                     {/* footer links */}
                     <div className='col-span-2 grid grid-cols-2 sm:grid-cols-3 md:pl-10'>
